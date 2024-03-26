@@ -1,0 +1,7 @@
+Q matrix: [[-0.92847669  0.37139068]
+ [ 0.37139068  0.92847669]]
+R matrix: [[-5.38516481  4.82807879]
+ [ 0.          6.68503217]]
+Eigenvalues from qr decomp: [9. 4.]
+Eig values and eig vectors from numpy function: EighResult(eigenvalues=array([4., 9.]), eigenvectors=array([[-0.89442719, -0.4472136 ],
+       [-0.4472136 ,  0.89442719]]))
