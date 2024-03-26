@@ -11,7 +11,7 @@ Vt matrix [[-0.92387953 -0.38268343]
 Verified Product of U,S and Vt [[2.00000000e+00 1.00000000e+00]
  [1.00000000e+00 4.38470705e-18]]
 
-Time taken for computation: 0.010004 seconds
+Time taken for computation: 0.000264 seconds
 ----------------------------------------------
 
 Output for matrix B-------------------------
@@ -31,7 +31,7 @@ Verified Product of U,S and Vt [[ 2.00000000e+00  1.00000000e+00]
  [ 1.00000000e+00 -1.25949234e-17]
  [-1.79128377e-16  1.00000000e+00]]
 
-Time taken for computation: 0.000269 seconds
+Time taken for computation: 0.000416 seconds
 --------------------------------------------
 
 Output for matrix C-------------------------
@@ -55,7 +55,7 @@ Verified Product of U,S and Vt [[ 2.  1.]
  [ 1.  1.]
  [ 2. -1.]]
 
-Time taken for computation: 0.000592 seconds
+Time taken for computation: 0.000410 seconds
 -----------------------------------------------
 
 Output for matrix D-----------------------------
@@ -80,7 +80,7 @@ Verified Product of U,S and Vt [[ 1.00000000e+00  1.00000000e+00  2.52368982e-17
  [ 3.04476818e-17  1.00000000e+00 -1.00000000e+00]
  [ 1.00000000e+00  1.00000000e+00 -1.00000000e+00]]
 
-Time taken for computation: 0.001710 seconds
+Time taken for computation: 0.00379 seconds
 -----------------------------------------------------
 
 Output for matrix E---------------------------------
@@ -114,4 +114,4 @@ Verified Product of U,S and Vt [[-8.18273505e-17  1.00000000e+00  1.00000000e+00
  [-1.70790672e-16  1.00000000e+00 -6.65538050e-16]
  [ 1.00000000e+00 -7.15119933e-16  1.00000000e+00]]
 
-Time taken for computation: 0.001275 seconds
+Time taken for computation: 0.000531 seconds
